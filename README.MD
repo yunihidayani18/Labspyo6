@@ -9,7 +9,7 @@
 # <img width="368" alt="tambah" src="https://user-images.githubusercontent.com/57063216/72220836-81a2ab00-3587-11ea-9b23-6cb17090f0d7.PNG">
 # Jika kita menginputkan l program akan menampilkan semua data yang kita inputkan, namun jika kita belum menginputkan data program akan menampilkan "data tidak ada"
 # <img width="402" alt="lihat" src="https://user-images.githubusercontent.com/57063216/72220835-81a2ab00-3587-11ea-9463-a6b1a5b49e30.PNG">
-# Jika kita menginputkan u program akan memberi perintah untuk mengubah data. yaitu nilai tugas. UTS, UAS.
+# Jika kita menginputkan u program akan memberi perintah untuk mengubah data. yaitu nama, nim, nilai tugas, UTS, UAS.
 # <img width="399" alt="ubah" src="https://user-images.githubusercontent.com/57063216/72220837-823b4180-3587-11ea-95f8-d40bf01f9cfd.PNG">
 # Jika kita menginputkan c program akan menampilkan data yang kita cari
 # <img width="369" alt="Cari" src="https://user-images.githubusercontent.com/57063216/72220832-810a1480-3587-11ea-9dd6-f505c1f529b5.PNG">
